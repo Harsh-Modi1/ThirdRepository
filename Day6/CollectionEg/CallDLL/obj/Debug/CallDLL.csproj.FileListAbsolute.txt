@@ -1,0 +1,9 @@
+D:\C Sharp\Day6\CollectionEg\CallDLL\obj\Debug\CallDLL.csprojAssemblyReference.cache
+D:\C Sharp\Day6\CollectionEg\CallDLL\bin\Debug\CallDLL.exe.config
+D:\C Sharp\Day6\CollectionEg\CallDLL\bin\Debug\CallDLL.exe
+D:\C Sharp\Day6\CollectionEg\CallDLL\bin\Debug\CallDLL.pdb
+D:\C Sharp\Day6\CollectionEg\CallDLL\bin\Debug\NormalCalculator.dll
+D:\C Sharp\Day6\CollectionEg\CallDLL\bin\Debug\NormalCalculator.pdb
+D:\C Sharp\Day6\CollectionEg\CallDLL\obj\Debug\CallDLL.csproj.CopyComplete
+D:\C Sharp\Day6\CollectionEg\CallDLL\obj\Debug\CallDLL.exe
+D:\C Sharp\Day6\CollectionEg\CallDLL\obj\Debug\CallDLL.pdb

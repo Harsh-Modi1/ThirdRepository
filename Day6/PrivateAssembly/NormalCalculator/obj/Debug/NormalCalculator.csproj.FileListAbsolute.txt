@@ -1,0 +1,4 @@
+D:\C Sharp\Day6\PrivateAssembly\NormalCalculator\bin\Debug\NormalCalculator.dll
+D:\C Sharp\Day6\PrivateAssembly\NormalCalculator\bin\Debug\NormalCalculator.pdb
+D:\C Sharp\Day6\PrivateAssembly\NormalCalculator\obj\Debug\NormalCalculator.dll
+D:\C Sharp\Day6\PrivateAssembly\NormalCalculator\obj\Debug\NormalCalculator.pdb

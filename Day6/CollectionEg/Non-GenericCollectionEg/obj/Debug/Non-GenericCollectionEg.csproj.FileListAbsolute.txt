@@ -1,0 +1,6 @@
+C:\Users\Kenil Modi\source\repos\CollectionEg\Non-GenericCollectionEg\obj\Debug\Non-GenericCollectionEg.csprojAssemblyReference.cache
+C:\Users\Kenil Modi\source\repos\CollectionEg\Non-GenericCollectionEg\bin\Debug\Non-GenericCollectionEg.exe.config
+C:\Users\Kenil Modi\source\repos\CollectionEg\Non-GenericCollectionEg\bin\Debug\Non-GenericCollectionEg.exe
+C:\Users\Kenil Modi\source\repos\CollectionEg\Non-GenericCollectionEg\bin\Debug\Non-GenericCollectionEg.pdb
+C:\Users\Kenil Modi\source\repos\CollectionEg\Non-GenericCollectionEg\obj\Debug\Non-GenericCollectionEg.exe
+C:\Users\Kenil Modi\source\repos\CollectionEg\Non-GenericCollectionEg\obj\Debug\Non-GenericCollectionEg.pdb

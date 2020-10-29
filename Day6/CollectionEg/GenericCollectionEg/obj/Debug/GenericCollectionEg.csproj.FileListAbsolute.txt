@@ -1,0 +1,12 @@
+C:\Users\Kenil Modi\source\repos\CollectionEg\GenericCollectionEg\bin\Debug\GenericCollectionEg.exe.config
+C:\Users\Kenil Modi\source\repos\CollectionEg\GenericCollectionEg\bin\Debug\GenericCollectionEg.exe
+C:\Users\Kenil Modi\source\repos\CollectionEg\GenericCollectionEg\bin\Debug\GenericCollectionEg.pdb
+C:\Users\Kenil Modi\source\repos\CollectionEg\GenericCollectionEg\obj\Debug\GenericCollectionEg.exe
+C:\Users\Kenil Modi\source\repos\CollectionEg\GenericCollectionEg\obj\Debug\GenericCollectionEg.pdb
+C:\Users\Kenil Modi\source\repos\CollectionEg\GenericCollectionEg\obj\Debug\GenericCollectionEg.csprojAssemblyReference.cache
+D:\C Sharp\Day6\CollectionEg\GenericCollectionEg\bin\Debug\GenericCollectionEg.exe.config
+D:\C Sharp\Day6\CollectionEg\GenericCollectionEg\bin\Debug\GenericCollectionEg.exe
+D:\C Sharp\Day6\CollectionEg\GenericCollectionEg\bin\Debug\GenericCollectionEg.pdb
+D:\C Sharp\Day6\CollectionEg\GenericCollectionEg\obj\Debug\GenericCollectionEg.csprojAssemblyReference.cache
+D:\C Sharp\Day6\CollectionEg\GenericCollectionEg\obj\Debug\GenericCollectionEg.exe
+D:\C Sharp\Day6\CollectionEg\GenericCollectionEg\obj\Debug\GenericCollectionEg.pdb
