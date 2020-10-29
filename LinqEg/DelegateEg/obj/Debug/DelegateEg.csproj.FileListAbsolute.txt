@@ -1,0 +1,6 @@
+D:\C Sharp\Day9\LinqEg\DelegateEg\bin\Debug\DelegateEg.exe.config
+D:\C Sharp\Day9\LinqEg\DelegateEg\bin\Debug\DelegateEg.exe
+D:\C Sharp\Day9\LinqEg\DelegateEg\bin\Debug\DelegateEg.pdb
+D:\C Sharp\Day9\LinqEg\DelegateEg\obj\Debug\DelegateEg.csprojAssemblyReference.cache
+D:\C Sharp\Day9\LinqEg\DelegateEg\obj\Debug\DelegateEg.exe
+D:\C Sharp\Day9\LinqEg\DelegateEg\obj\Debug\DelegateEg.pdb
